@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NewKAMServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="simple-service-webapp.war">
+      <element id="artifact" artifact-name="NewKAMServer:war exploded" />
+    </root>
+  </artifact>
+</component>
